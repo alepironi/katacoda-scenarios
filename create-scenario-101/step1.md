@@ -10,5 +10,6 @@ Initialize an empty repository
 `git init`{{execute}}
 
 Create a file and put some content inside...
-`nano myfile.txt`{{execute}}
+
+`myfile.txt`{{open}}
 
