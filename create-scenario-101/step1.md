@@ -14,7 +14,7 @@ Let's check what's going on...
 Now, let's do some more operation, and let's check the status everytime
 `git add myfile.txt`{{execute}}
 
-`git commit -m "added first file to repo"`{{execute}}
+`git commit`{{execute}}
 
 `git status`{{execute}}
 
