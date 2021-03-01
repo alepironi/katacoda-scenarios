@@ -8,3 +8,7 @@ Let's create an empty folder and use it
 
 Initialize an empty repository
 `git init`{{execute}}
+
+Create a file and put some content inside...
+`nano myfile.txt`{{execute}}
+
