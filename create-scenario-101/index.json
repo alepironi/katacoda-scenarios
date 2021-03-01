@@ -20,7 +20,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uieditorpath": "/tmp"
+    "uieditorpath": "/tmp/my_great_app"
   },
   "backend": {
     "imageid": "ubuntu:2004"
