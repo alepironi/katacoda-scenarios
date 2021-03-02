@@ -1,5 +1,5 @@
 echo "export PS1=\"\e[1;32m[\w] $ \e[m\"" >> /root/.bashrc
-.bashrc
+. .bashrc
 git config --global user.email alessandro.pironi@capgemini.com
 git config --global user.name "Alessandro Pironi"
 cd /tmp
