@@ -6,8 +6,12 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Initialize the repo and do some commit",
         "text": "step1.md"
+      },
+      {
+        "title": "Let's branch!",
+        "text": "step2.md"
       }
 	],
     "intro": {
