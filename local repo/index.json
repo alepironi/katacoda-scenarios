@@ -12,6 +12,10 @@
       {
         "title": "Let's branch!",
         "text": "step2.md"
+      },
+      {
+        "title": "And now.... merge!",
+        "text": "step3.md"
       }
 	],
     "intro": {

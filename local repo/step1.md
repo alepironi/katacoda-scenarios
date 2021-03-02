@@ -7,6 +7,8 @@ When needed we can check the repository status with
 and we can look at the commit and branches history with 
 `git log --oneline --graph --decorate --all`{{execute}}
 
+We can clear the console with `clear`{{execute}}
+
 ## Start
 
 Let's start initializing an empty repository
