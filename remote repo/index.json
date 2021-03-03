@@ -20,7 +20,7 @@
 	],
     "intro": {
       "text": "intro.md",
-      "background": "background.sh"
+      "foreground": "background.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -28,7 +28,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uieditorpath": "/tmp/my_great_app"
+    "uieditorpath": "/tmp"
   },
   "backend": {
     "imageid": "ubuntu:2004"

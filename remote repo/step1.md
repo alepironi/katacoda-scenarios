@@ -9,9 +9,9 @@ First step, we will clone an existing repository:
 Let's do some modification to the file `hello-world/README.md`{{open}}
 
 now we can commit 
-`git add .`{execute}
+`git add .`{{execute}}
 
-`git commit -m "added lines to README file" `{execute}
+`git commit -m "added lines to README file" `{{execute}}
 
 `git push`{execute}
 
