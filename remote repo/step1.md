@@ -6,7 +6,7 @@ First step, we will clone an existing repository:
 `git clone https://github.com/alepironi/hello-world.git`{{execute}}
 
 
-Let's do some modification to the file `hello-world/README.md`{{open}}
+Let's do some modification to the file `/tmp/developer1/hello-world/README.md`{{open}}
 
 now we can commit 
 `git add .`{{execute}}
