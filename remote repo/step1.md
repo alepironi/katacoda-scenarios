@@ -13,7 +13,7 @@ now we can commit
 
 `git commit -m "added lines to README file" `{{execute}}
 
-`git push`{execute}
+`git push`{{execute}}
 
 
 
