@@ -7,23 +7,23 @@
     "steps": [
       {
         "title": "Developer 1 clones the repository",
-		"code" : "background-1.sh",
+		"foreground" : "background-1.sh",
         "text": "step1.md"
       },
       {
         "title": "Developer 1 clones the repository",
-		"code" : "background-2.sh",
+		"foreground" : "background-2.sh",
         "text": "step2.md"
       },
       {
         "title": "And now.... merge!",
-		"code" : "background-1.sh",
+		"foreground" : "background-1.sh",
         "text": "step3.md"
       }
 	],
     "intro": {
       "text": "intro.md",
-      "courseData": "background.sh"
+      "background": "background.sh"
     },
     "finish": {
       "text": "finish.md"
