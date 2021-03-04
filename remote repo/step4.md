@@ -14,4 +14,4 @@ Now also developer 2 makes some change in his own folder...
 
 `git push`{{execute}}
 
-Push fails because of a conflict. 
+**Push fails because of a conflict** 

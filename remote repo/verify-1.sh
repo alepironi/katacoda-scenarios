@@ -1,1 +1,0 @@
-[ -d /tmp/workspace/developer1/myproject/myfile.txt ] && echo "done"
