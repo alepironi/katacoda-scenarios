@@ -6,11 +6,13 @@
   "details": {
     "steps": [
       {
-        "title": "Cloning a repository",
+        "title": "Developer 1 clones the repository",
+		"foreground" : "background-1.sh",
         "text": "step1.md"
       },
       {
-        "title": "Let's branch!",
+        "title": "Developer 1 clones the repository",
+		"foreground" : "background-2.sh",
         "text": "step2.md"
       },
       {
@@ -27,8 +29,8 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal",
-    "uieditorpath": "/tmp"
+    "uilayout": "terminal-editor",
+    "uieditorpath": "/tmp/workspace"
   },
   "backend": {
     "imageid": "ubuntu:2004"
