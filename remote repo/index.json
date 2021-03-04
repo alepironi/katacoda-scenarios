@@ -17,12 +17,12 @@
       },
       {
         "title": "Do some change around...",
-		"foreground" : "background-1.sh",
+		"foreground" : "background-3.sh",
         "text": "step3.md"
       },
       {
         "title": "Do some change around...",
-		"foreground" : "background-2.sh",
+		"foreground" : "background-4.sh",
         "text": "step4.md"
       }
 	],

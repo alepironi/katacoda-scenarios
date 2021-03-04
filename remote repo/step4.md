@@ -4,9 +4,9 @@ Now also developer 2 makes some change in his own folder...
 
 ... and wants to push it to the remote repository.
 
-`git config  user.email dev2@mycompany.com`{{execute}}
+`git config user.email dev2@mycompany.com`{{execute}}
 
-`git config --global user.name "developer2"`{{execute}}
+`git config user.name "developer2"`{{execute}}
 
 `git add .`{{execute}}
 
