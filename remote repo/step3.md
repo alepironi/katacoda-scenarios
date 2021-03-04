@@ -1,13 +1,17 @@
-## Developer 2
+## Developer 1
 
-Now also developer 2 makes some change in his own folder...
+Let's change the file.
 
-... and wants to push it to the remote repository.
+Now we are ready to push our changes to the remote repository. The first time you clone a repository, you have to configure who you are in order to push changes around:
+
+`git config  user.email dev1@mycompany.com`{{execute}}
+
+`git config --global user.name "developer1"`{{execute}}
+
 
 `git add .`{{execute}}
 
-`git commit -m "changes from developer 2"`{{execute}}
+`git commit -m "changes from developer 1"`{{execute}}
 
 `git push`{{execute}}
 
-Push fails because of a conflict. 

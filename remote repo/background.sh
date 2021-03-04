@@ -1,8 +1,5 @@
 echo "export PS1=\"\e[1;32m[\w] $ \e[m\"" >> /root/.bashrc
 . .bashrc
-git config --global user.email pironi.alessandro@gmail.com
-git config --global user.name "alepironi"
-
 
 mkdir -p /remote/repositories/myproject
 cd /remote/repositories/myproject
