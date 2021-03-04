@@ -6,6 +6,9 @@ cd /remote/repositories/myproject
 git init
 echo "first line" > myfile.txt
 echo "second line" >> myfile.txt
+
+git config user.email dev0@mycompany.com
+git config user.name "developer0"
 git add myfile.txt
 git commit -m "init repo" 
 git config core.bare true
