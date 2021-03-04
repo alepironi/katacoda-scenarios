@@ -16,5 +16,6 @@ git config core.bare true
 mkdir /tmp/workspace/
 mkdir /tmp/workspace/developer1
 mkdir /tmp/workspace/developer2
+cd /tmp/workspace/developer1
 
 clear

@@ -7,7 +7,6 @@
     "steps": [
       {
         "title": "Developer 1 clones the repository",
-		"foreground" : "background-1.sh",
         "text": "step1.md"
       },
       {
@@ -17,6 +16,7 @@
       },
       {
         "title": "And now.... merge!",
+		"foreground" : "background-1.sh",
         "text": "step3.md"
       }
 	],
