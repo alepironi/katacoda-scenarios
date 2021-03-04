@@ -6,6 +6,7 @@ git config --global user.name "alepironi"
 
 mkdir -p /remote/repositories/myproject
 cd /remote/repositories/myproject
+git init
 echo "first line" > myfile.txt
 echo "second line" >> myfile.txt
 git add myfile.txt
