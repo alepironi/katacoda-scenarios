@@ -9,7 +9,6 @@
         "title": "Initializing the repositories",
 		"foreground" : "background.sh",
         "text": "step1.md",
-		"verify": "verify-1.sh"
       },
       {
         "title": "Initializing the repositories",
