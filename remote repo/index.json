@@ -29,7 +29,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-editor",
+    "uilayout": "editor-terminal",
     "uieditorpath": "/tmp/workspace"
   },
   "backend": {
